@@ -22,6 +22,7 @@ public class ChatController {
     @GetMapping("/chatGPT")
     public void getquestion() {
         chatService.getDailyQuestions();
+
     }
 
     @GetMapping("/chatGPT/remember")
