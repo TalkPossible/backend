@@ -19,6 +19,7 @@ import java.util.Random;
 @Slf4j
 @RequiredArgsConstructor
 public class ChatRememberService {
+
     
     private final CacheService cacheService;
 
