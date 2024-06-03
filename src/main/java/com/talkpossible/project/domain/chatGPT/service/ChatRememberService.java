@@ -75,8 +75,5 @@ public class ChatRememberService {
 
 //        String trueQuestion = response1.getChoices().get(0).getMessage().getContent().substring(8);
         return response1;
-
-
-//        questionRepository.saveAll(newQuestionList);
     }
 }
