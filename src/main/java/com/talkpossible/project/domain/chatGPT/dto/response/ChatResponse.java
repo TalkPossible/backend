@@ -22,7 +22,6 @@ public class ChatResponse {
 
         private int index;
         private Message message;
-
     }
 
 }
